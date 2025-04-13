@@ -1,0 +1,63 @@
+.row {
+  margin-top: 100px;
+  margin-right: 20%;
+  margin-bottom: 40%;
+  margin-left: 20%;
+}
+
+body {
+  background-image: url('https://c0.wallpaperflare.com/preview/389/615/630/business-businessman-communication-concept.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  animation: moveBackground 30s linear infinite;
+}
+
+.navbar {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+  background-color: rgb(186, 157, 186);
+}
+
+.card {
+  border: none;
+  border-radius: 1rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  background-color: rgb(235, 222, 237);
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+}
+
+.btn-outline-primary:hover {
+  background-color: #b06ca6;
+  color: #fff;
+}
+
+.btn-outline-danger:hover {
+  background-color: #e25b68;
+  color: #fff;
+}
+
+.custom-card {
+  width: 100%;
+  max-width: 350px;
+  margin: 0 auto;
+}
+
+.card-title {
+  color: #72027a;
+}
+
+.card-text {
+  color: #652060;
+}
+
+.nav-link:hover {
+  color: #d5ced5;
+  background-color: #e1aeda;
+}
+.nav-link{
+  font-size: large;
+}

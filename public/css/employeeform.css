@@ -1,0 +1,30 @@
+body {
+    background-image: url('https://c0.wallpaperflare.com/preview/389/615/630/business-businessman-communication-concept.jpg');
+    background-size: cover;
+    
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      }
+    
+      .form-container {
+        max-width: 400px;
+        margin: 50px auto;
+        background-color: #cdc6cd;
+        padding: 2rem;
+        border-radius: 1rem;
+        box-shadow: 0 8px 20px rgba(0, 0, 0, 0.05);
+      }
+      .navbar {
+        box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+        background-color: rgb(186, 157, 186);
+      }
+      .nav-link:hover {
+        color: #d5ced5;
+        background-color: #e1aeda;
+      }
+      .nav-link{
+        font-size: large;
+      }
+      .btn{
+        background-color: rgb(192, 135, 185);
+      }
+    
